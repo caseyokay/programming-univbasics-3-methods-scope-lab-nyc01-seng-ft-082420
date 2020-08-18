@@ -16,3 +16,8 @@ def link
   puts warning
 end
 
+def all_phrases
+  return toadstool
+  return link
+  return mario
+end
